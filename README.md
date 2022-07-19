@@ -6,7 +6,7 @@ Este repositorio contiene la actividad de JavaScript número 1, en la que se afi
 
 ## Foto:
 
-![Captura](https://media.discordapp.net/attachments/406964110270398475/998774122895118427/captura.PNG?width=787&height=492)
+![Captura](https://media.discordapp.net/attachments/406964110270398475/998775903075188737/captura.PNG)
 
 
 ## By: *Juan Manuel Valencia G.
